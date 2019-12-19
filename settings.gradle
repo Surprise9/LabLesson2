@@ -1,0 +1,2 @@
+include ':app', ':lifecycleActivity', ':multiActivity', ':IntentFilter', ':ToastApp', ':NotufucationApp', ':dialog'
+rootProject.name='LabLesson2'
